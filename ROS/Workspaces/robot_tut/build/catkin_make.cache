@@ -1,0 +1,2 @@
+robot_tut
+-DCATKIN_DEVEL_PREFIX=/media/Git/GITHUB/Robotics/ROS/Workspaces/robot_tut/devel -DCMAKE_INSTALL_PREFIX=/media/Git/GITHUB/Robotics/ROS/Workspaces/robot_tut/install -G Unix Makefiles

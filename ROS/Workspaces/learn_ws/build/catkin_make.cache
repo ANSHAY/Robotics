@@ -1,0 +1,2 @@
+beginner_tutorials
+-DCATKIN_DEVEL_PREFIX=/media/Git/GITHUB/Robotics/ROS/Workspaces/learn_ws/devel -DCMAKE_INSTALL_PREFIX=/media/Git/GITHUB/Robotics/ROS/Workspaces/learn_ws/install -G Unix Makefiles
