@@ -3,6 +3,6 @@ prefix=/media/Git/GITHUB/Robotics/ROS/Workspaces/learn_ws/install
 Name: beginner_tutorials
 Description: Description of beginner_tutorials
 Version: 0.0.0
-Cflags: 
+Cflags: -I${prefix}/include
 Libs: -L${prefix}/lib 
 Requires: 
