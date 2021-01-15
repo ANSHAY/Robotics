@@ -94,8 +94,8 @@ def a_star(nodes, edges):
 
 if __name__ == "__main__":
     # nodes is a dictionary mapping node_id to node
-    nodes = fetch_nodes("nodes.csv")
+    nodes = fetch_nodes("../results/nodes.csv")
     # edge is a dictionary mapping node to its connected nodes and edge cost. Just like a matrix
-    edges = fetch_edges("edges.csv", nodes)
+    edges = fetch_edges("../results/edges.csv", nodes)
     path = a_star(nodes, edges)
-    write_path(path, "path.csv")
+    write_path(path, "../results/path.csv")
