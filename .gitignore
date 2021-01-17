@@ -11,4 +11,5 @@ CTestTestfile.cmake
 _deps
 learn_ws
 learn
+__pycache__
 .gitignore

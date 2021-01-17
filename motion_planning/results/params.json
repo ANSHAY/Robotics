@@ -1,0 +1,9 @@
+{
+ "algo":"PRM",
+ "x_start":{"x":-0.5, "y":-0.5},
+ "x_goal":{"x":0.5, "y":0.5},
+ "max_tree_size":500,
+ "X":[-0.5,0.5,-0.5,0.5],
+ "num_samples": 100,
+ "k_neighbors": 5
+}
